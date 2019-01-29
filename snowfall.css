@@ -132,6 +132,7 @@ form {
     border-bottom: solid 1px #48D1CC;
     padding-bottom: 10px;
     position: absolute;
+    text-align: center;
 }
 
 #usrdash {
