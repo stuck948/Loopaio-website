@@ -133,7 +133,7 @@ form {
     padding-bottom: 10px;
     position: absolute;
     float: right;
-    /* margin-left: 39%; */
+    margin-left: 39%;
 }
 
 #usrdash {
@@ -142,8 +142,7 @@ form {
     border-bottom: solid 1px #48D1CC;
     padding-bottom: 10px;
     position: absolute;
-    text-align: center;
-    margin-left: 42%;
+    margin-left: 45%;
 }
 
 #db {
