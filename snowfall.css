@@ -349,8 +349,8 @@ form {
 
 #stats {
   color: #CCC;
-  margin-top: -213%;
-  margin-left: 39em;
+  margin-top: -240%;
+  margin-left: 35em;
   border: solid 2px #45688C;
   padding-right: 9.6em;
   padding-left: 10em;
@@ -366,7 +366,7 @@ form {
 #site {
   color: #CCC;
   margin-top: -29.5em;
-  margin-left: 53em;
+  margin-left: 48em;
   position: absolute;
   border: 1px solid #0C2340;
   background-color: #0C2340;
@@ -381,7 +381,7 @@ form {
 #time {
   color: #CCC;
   margin-top: -29.3em;
-  margin-left: 75em;
+  margin-left: 77%;
   position: absolute;
   letter-spacing: 1px;
 }
@@ -389,7 +389,7 @@ form {
 #profile {
   color: #CCC;
   margin-top: -29.3em;
-  margin-left: 65em;
+  margin-left: 65%;
   position: absolute;
   letter-spacing: 1px;
 
